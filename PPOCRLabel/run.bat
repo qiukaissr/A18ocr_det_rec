@@ -1,0 +1,1 @@
+python PPOCRLabel.py --lang ch

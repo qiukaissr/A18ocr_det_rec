@@ -1,0 +1,1 @@
+python tools/infer/predict_det.py --image_dir="./doc/imgs/img_50/"   --det_model_dir="./inference/ch_ppocr_mobile_v2.0_det_infer/"  --use_angle_cls=True --use_space_char=True

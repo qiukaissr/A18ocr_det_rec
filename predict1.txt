@@ -1,0 +1,1 @@
+python tools/infer/predict_rec.py --image_dir="./doc/imgs/images_2k/5f1fbdb6ffeca5baa9c9fa3e-4.jpg"   --rec_model_dir="./inference/ch_ppocr_mobile_v2.0_rec_infer/"  --use_angle_cls=True --use_space_char=True
