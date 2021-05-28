@@ -39,7 +39,6 @@ PaddleOCR同时支持动态图与静态图两种编程范式
     - [数据合成工具Style-Text](./StyleText/README_ch.md)
     - [其它数据标注工具](./doc/doc_ch/data_annotation.md)
     - [其它数据合成工具](./doc/doc_ch/data_synthesis.md)
-- [效果展示](#效果展示)
 - FAQ
     - [【精选】OCR精选10个问题](./doc/doc_ch/FAQ.md)
     - [【理论篇】OCR通用37个问题](./doc/doc_ch/FAQ.md)
